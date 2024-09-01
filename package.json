@@ -1,0 +1,16 @@
+{
+  "name": "facets_parser",
+  "version": "1.0.0",
+  "description": "Tool to parse \"Facets\" block in npc_heroes.txt and npc_heroes_custom.txt (with #base support)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SniperX",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "easy-keyvalues": "^1.2.3",
+    "node-fetch": "^3.3.2"
+  }
+}
